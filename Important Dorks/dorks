@@ -1,0 +1,322 @@
+URL:-
+  https://forum.antichat.club/threads/47962/
+
+
+
+allinurl: "proxylist.txt"
+allinurl: "proxy.txt"
+"index of/root"
+"auth_user_file.txt"
+"index of/root"
+"Index of /admin"
+"Index of /password"
+"Index of /mail"
+"Index of /" +passwd
+"Index of /" +password.txt
+"Index of /" +.htaccess
+index of ftp +.mdb allinurl:/cgi-bin/ +mailto
+administrators.pwd.index
+authors.pwd.index
+service.pwd.index
+filetype:config web
+gobal.asax index
+allintitle: "index of/admin"
+allintitle: "index of/root"
+allintitle: sensitive filetype oc
+allintitle: restricted filetype :mail
+allintitle: restricted filetype oc site:gov
+for IIS server exlpoit
+allinurl: winnt/system32/
+and u’ll get many IIS server exploitsъ
+intitle:r57shell
+intitle:"Index of" .sh_history
+intitle:"Index of" .bash_history
+intitle:"index of" passwd
+intitle:"index of" people.lst
+intitle:"index of" pwd.db
+intitle:"index of" etc/shadow
+intitle:"index of" spwd
+intitle:"index of" master.passwd
+intitle:"index of" htpasswd
+intitle:"index of" members OR accounts
+intitle:"index of" user_carts OR user_cart
+_vti_inf.html
+service.pwd
+users.pwd
+authors.pwd
+administrators.pwd
+shtml.dll
+shtml.exe
+fpcount.exe
+default.asp
+showcode.asp
+sendmail.cfm
+getFile.cfm
+imagemap.exe
+test.bat
+msadcs.dll
+htimage.exe
+counter.exe
+browser.inc
+hello.bat
+default.asp\
+dvwssr.dll
+cart32.exe
+add.exe
+index.jsp
+SessionServlet
+glimpse
+man.sh
+AT-admin.cgi
+AT-generate.cgi
+inurl:/adpassword.txt
+inurl:admin.dat
+and even for shop sites:
+inurl:/shop/db/
+intitle:"index of/ shop" +db
+intitle:"index of/" +shopping_cart
+"Index of /admin"
+"Index of /password"
+"Index of /mail"
+"Index of /" +passwd
+"Index of /" +password.txt
+"Index of /" +.htaccess
+index of ftp +.mdb allinurl:/cgi-bin/ +mailto
+
+administrators.pwd.index
+authors.pwd.index
+service.pwd.index
+filetype:config web
+gobal.asax index
+
+allintitle: "index of/admin"
+allintitle: "index of/root"
+allintitle: sensitive filetype:doc
+allintitle: restricted filetype :mail
+allintitle: restricted filetype:doc site:gov
+
+inurlasswd filetype:txt
+inurl:admin filetype:db
+inurl:iisadmin
+inurl:"auth_user_file.txt"
+inurl:"wwwroot/*."
+
+
+top secret site:mil
+confidential site:mil
+
+allinurl: winnt/system32/ (get cmd.exe)
+allinurl:/bash_history
+
+intitle:"Index of" .sh_history
+intitle:"Index of" .bash_history
+intitle:"index of" passwd
+intitle:"index of" people.lst
+intitle:"index of" pwd.db
+intitle:"index of" etc/shadow
+intitle:"index of" spwd
+intitle:"index of" master.passwd
+intitle:"index of" htpasswd
+intitle:"index of" members OR accounts
+intitle:"index of" user_carts OR user_cart
+Многие админы оставляют открытыми такие директории:
+/orders
+/Order
+/Orders
+/order
+/config
+/Admin_files
+/mall_log_files
+/PDG_Cart
+PDG_Cart/order.log
+PDG_Cart/shopper.conf
+/pw
+/store/customers
+/store/temp_customers
+/WebShop
+/webshop
+/WebShop/templates
+/WebShop/logs
+/cgi/PDG_Cart/order.log
+/PDG_Cart/authorizenets.txt
+/cgi-bin/PDG_Cart/mc.txt
+/PDG/order.txt
+/cgi-bin/PDG_cart/card.txt
+/PDG_Cart/shopper.conf
+/php/mlog.phtml
+/php/mylog.phtml
+/webcart/carts
+/cgi-bin/orders.txt
+/WebShop/logs
+/cgi-bin/AnyForm2
+/cgi-bin/mc.txt
+/ccbill/secure/ccbill.log
+/cgi-bin/orders/mc.txt
+/WebCart/orders.txt
+/cgi-bin/orders/cc.txt
+/cvv2.txt
+/cgi-bin/orderlog.txt
+/WebShop/logs
+/orderb/shop.mdb
+/_private/shopping_cart.mdb
+/scripts/iisadmin/tools/mkilog.exe
+/cool-logs/mylog.html
+/cool-logs/mlog.html
+/easylog/easylog.html
+/HyperStat/stat_what.log
+/mall_log_files/
+/scripts/weblog
+/super_stats/access_logs
+/trafficlog
+/wwwlog
+/Admin_files/order.log
+/bin/orders/orders.txt
+/cgi/orders/orders.txt
+/cgi-bin/orders/orders.txt
+/cgi-sys/orders/orders.txt
+/cgi-local/orders/orders.txt
+/htbin/orders/orders.txt
+/cgibin/orders/orders.txt
+/cgis/orders/orders.txt
+/scripts/orders/orders.txt
+/cgi-win/orders/orders.txt
+/bin/pagelog.cgi
+/cgi/pagelog.cgi
+/cgi-bin/pagelog.cgi
+/cgi-sys/pagelog.cgi
+/cgi-local/pagelog.cgi
+/cgibin/pagelog.cgi
+/cgis/pagelog.cgi
+/scripts/pagelog.cgi
+/cgi-win/pagelog.cgi
+/bin/DCShop/auth_data/auth_user_file.txt
+/cgi/DCShop/auth_data/auth_user_file.txt
+/cgi-bin/DCShop/auth_data/auth_user_file.txt
+/cgi-sys/DCShop/auth_data/auth_user_file.txt
+/cgi-local/DCShop/auth_data/auth_user_file.txt
+/htbin/DCShop/auth_data/auth_user_file.txt
+/cgibin/DCShop/auth_data/auth_user_file.txt
+/cgis/DCShop/auth_data/auth_user_file.txt
+/scripts/DCShop/auth_data/auth_user_file.txt
+/cgi-win/DCShop/auth_data/auth_user_file.txt
+/bin/DCShop/orders/orders.txt
+/cgi/DCShop/orders/orders.txt
+/cgi-bin/DCShop/orders/orders.txt
+/cgi-sys/DCShop/orders/orders.txt
+/cgi-local/DCShop/orders/orders.txt
+/htbin/DCShop/orders/orders.txt
+/cgibin/DCShop/orders/orders.txt
+/cgis/DCShop/orders/orders.txt
+/scripts/DCShop/orders/orders.txt
+/cgi-win/DCShop/orders/orders.txt
+/dc/auth_data/auth_user_file.txt
+/dcshop/orders/orders.txt
+/dcshop/auth_data/auth_user_file.txt
+/dc/orders/orders.txt
+/orders/checks.txt
+/orders/mountain.cfg
+/cgi-bin/shopper.cgi&TEMPLATE=ORDER.LOG
+/webcart/carts
+/webcart-lite/orders/import.txt
+/webcart/config
+/webcart/config/clients.txt
+/webcart/orders
+/webcart/orders/import.txt
+/WebShop/logs/cc.txt
+/WebShop/templates/cc.txt
+/bin/shop/auth_data/auth_user_file.txt
+/cgi/shop/auth_data/auth_user_file.txt
+/cgi-bin/shop/auth_data/auth_user_file.txt
+/cgi-sys/shop/auth_data/auth_user_file.txt
+/cgi-local/shop/auth_data/auth_user_file.txt
+/htbin/shop/auth_data/auth_user_file.txt
+/cgibin/shop/auth_data/auth_user_file.txt
+/cgis/shop/auth_data/auth_user_file.txt
+/scripts/shop/auth_data/auth_user_file.txt
+/cgi-win/shop/auth_data/auth_user_file.txt
+/bin/shop/orders/orders.txt
+/cgi/shop/orders/orders.txt
+/cgi-bin/shop/orders/orders.txt
+/cgi-sys/shop/orders/orders.txt
+/cgi-local/shop/orders/orders.txt
+/htbin/shop/orders/orders.txt
+/cgibin/shop/orders/orders.txt
+/cgis/shop/orders/orders.txt
+/scripts/shop/orders/orders.txt
+/cgi-win/shop/orders/orders.txt
+/bin/shop.pl/page=;cat%20shop.pl
+/cgi/shop.pl/page=;cat%20shop.pl
+/cgi-bin/shop.pl/page=;cat%20shop.pl
+/cgi-sys/shop.pl/page=;cat%20shop.pl
+/cgi-local/shop.pl/page=;cat%20shop.pl
+/htbin/shop.pl/page=;cat%20shop.pl
+/cgibin/shop.pl/page=;cat%20shop.pl
+/cgis/shop.pl/page=;cat%20shop.pl
+/scripts/shop.pl/page=;cat%20shop.pl
+/cgi-win/shop.pl/page=;cat%20shop.pl
+/bin/cart.pl
+/cgi/cart.pl
+/cgi-bin/cart.pl
+/cgi-sys/cart.pl
+/cgi-local/cart.pl
+/htbin/cart.pl
+/cgibin/cart.pl
+/scripts/cart.pl
+/cgi-win/cart.pl
+/cgis/cart.pl
+/bin/cart.pl
+/cgi/cart.pl
+/cgi-bin/cart.pl
+/cgi-sys/cart.pl
+/cgi-local/cart.pl
+/htbin/cart.pl
+/cgibin/cart.pl
+/cgis/cart.pl
+/scripts/cart.pl
+/cgi-win/cart.pl
+/bin/cart32.exe
+/cgi/cart32.exe
+/cgi-bin/cart32.exe
+/cgi-sys/cart32.exe
+/cgi-local/cart32.exe
+/htbin/cart32.exe
+/cgibin/cart32.exe
+/cgis/cart32.exe
+/scripts/cart32.exe
+/cgi-win/cart32.exe
+/cgi-bin/www-sql;;;
+/server%20logfile;;;
+/cgi-bin/pdg_cart/order.log
+/cgi-bin/shopper.exe?search
+/orders/order.log
+/orders/import.txt
+/orders/checks.txt
+/orders/orders.txt
+/Orders/order.log
+/order/order.log
+/WebShop/logs/ck.log
+/WebShop/logs/cc.txt
+/WebShop/templates/cc.txt
+/_private/orders.txt
+
+  
+  
+в
+этих директориях мы за частую можем найти такие файлы как
+
+orders.txt
+order.txt
+import.txt
+checks.txt
+order_log
+order.log
+orders.log
+orders_log
+log_order
+log_orders
+temp_order
+temp_orders
+order_temp
+robots.txt
+admin.mdb
+user_file.txt
